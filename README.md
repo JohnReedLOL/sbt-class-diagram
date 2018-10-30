@@ -2,7 +2,7 @@
 
 ### requirement
 
-- <https://www.graphviz.org/>
+- <https://www.graphviz.org/> 
 - sbt 0.13.5 or higher
 
 ### install
